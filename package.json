@@ -1,0 +1,19 @@
+{
+  "name": "stock-chart-image-generator",
+  "version": "1.0.0",
+  "description": "Makes stock charts, uploads image to cloud for use in deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.22.0",
+    "dotenv": "^8.2.0",
+    "iex-api": "0.0.3",
+    "plotly": "^1.0.6",
+    "random-number": "0.0.9",
+    "request": "^2.88.2"
+  }
+}
