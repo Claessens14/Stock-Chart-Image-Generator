@@ -1,4 +1,4 @@
-# Stock Chart Image Gnerator & Cloud Hosting
+# Stock Chart Image Generator & Cloud Hosting 📈
 
 ![runtime gif](/assets/Running_the_program.gif)
 
